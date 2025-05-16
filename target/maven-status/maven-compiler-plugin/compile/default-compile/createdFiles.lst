@@ -1,0 +1,6 @@
+pages\BasePage.class
+utlity\JsonFileReader.class
+utlity\ConFactory.class
+pages\LoginPage.class
+utlity\FrameworkConfig.class
+utlity\PropertyFileReader.class

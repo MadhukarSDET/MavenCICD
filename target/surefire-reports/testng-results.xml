@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-16T04:20:07 GMT-07:00" name="Suite" finished-at="2025-05-16T04:20:24 GMT-07:00" duration-ms="17209">
+    <groups>
+    </groups>
+    <test started-at="2025-05-16T04:20:07 GMT-07:00" name="Test" finished-at="2025-05-16T04:20:24 GMT-07:00" duration-ms="17209">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTest@72f926e6]" started-at="2025-05-16T04:20:07 GMT-07:00" name="setup" finished-at="2025-05-16T04:20:22 GMT-07:00" duration-ms="14950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTest@72f926e6]" started-at="2025-05-16T04:20:07 GMT-07:00" name="setup" finished-at="2025-05-16T04:20:15 GMT-07:00" duration-ms="8137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTest@72f926e6]" started-at="2025-05-16T04:20:07 GMT-07:00" name="setup" finished-at="2025-05-16T04:20:13 GMT-07:00" duration-ms="6300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTest@72f926e6]" started-at="2025-05-16T04:20:07 GMT-07:00" name="setup" finished-at="2025-05-16T04:20:13 GMT-07:00" duration-ms="6691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTest@72f926e6]" started-at="2025-05-16T04:20:07 GMT-07:00" name="setup" finished-at="2025-05-16T04:20:17 GMT-07:00" duration-ms="10250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTest@72f926e6]" started-at="2025-05-16T04:20:07 GMT-07:00" name="setup" finished-at="2025-05-16T04:20:15 GMT-07:00" duration-ms="8228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTest@72f926e6]" started-at="2025-05-16T04:20:07 GMT-07:00" name="setup" finished-at="2025-05-16T04:20:18 GMT-07:00" duration-ms="11382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="dTest()[pri:0, instance:tests.LoginTest@72f926e6]" started-at="2025-05-16T04:20:13 GMT-07:00" name="dTest" finished-at="2025-05-16T04:20:15 GMT-07:00" duration-ms="2224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dTest -->
+        <test-method signature="cTest()[pri:0, instance:tests.LoginTest@72f926e6]" started-at="2025-05-16T04:20:13 GMT-07:00" name="cTest" finished-at="2025-05-16T04:20:23 GMT-07:00" duration-ms="9218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cTest -->
+        <test-method signature="bTest()[pri:0, instance:tests.LoginTest@72f926e6]" started-at="2025-05-16T04:20:15 GMT-07:00" name="bTest" finished-at="2025-05-16T04:20:22 GMT-07:00" duration-ms="7003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bTest -->
+        <test-method signature="loginTest()[pri:0, instance:tests.LoginTest@72f926e6]" started-at="2025-05-16T04:20:15 GMT-07:00" name="loginTest" finished-at="2025-05-16T04:20:19 GMT-07:00" duration-ms="4492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.LoginTest@72f926e6]" started-at="2025-05-16T04:20:15 GMT-07:00" name="teardown" finished-at="2025-05-16T04:20:17 GMT-07:00" duration-ms="1693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="eTest()[pri:0, instance:tests.LoginTest@72f926e6]" started-at="2025-05-16T04:20:17 GMT-07:00" name="eTest" finished-at="2025-05-16T04:20:18 GMT-07:00" duration-ms="870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.LoginTest@72f926e6]" started-at="2025-05-16T04:20:18 GMT-07:00" name="teardown" finished-at="2025-05-16T04:20:19 GMT-07:00" duration-ms="1434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="qTest()[pri:0, instance:tests.LoginTest@72f926e6]" started-at="2025-05-16T04:20:18 GMT-07:00" name="qTest" finished-at="2025-05-16T04:20:19 GMT-07:00" duration-ms="866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- qTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.LoginTest@72f926e6]" started-at="2025-05-16T04:20:19 GMT-07:00" name="teardown" finished-at="2025-05-16T04:20:20 GMT-07:00" duration-ms="1304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.LoginTest@72f926e6]" started-at="2025-05-16T04:20:19 GMT-07:00" name="teardown" finished-at="2025-05-16T04:20:21 GMT-07:00" duration-ms="1267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="aTest()[pri:0, instance:tests.LoginTest@72f926e6]" started-at="2025-05-16T04:20:22 GMT-07:00" name="aTest" finished-at="2025-05-16T04:20:22 GMT-07:00" duration-ms="656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.LoginTest@72f926e6]" started-at="2025-05-16T04:20:22 GMT-07:00" name="teardown" finished-at="2025-05-16T04:20:23 GMT-07:00" duration-ms="1258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.LoginTest@72f926e6]" started-at="2025-05-16T04:20:22 GMT-07:00" name="teardown" finished-at="2025-05-16T04:20:24 GMT-07:00" duration-ms="1258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.LoginTest@72f926e6]" started-at="2025-05-16T04:20:23 GMT-07:00" name="teardown" finished-at="2025-05-16T04:20:24 GMT-07:00" duration-ms="1264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
